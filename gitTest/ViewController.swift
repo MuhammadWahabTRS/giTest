@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("this in main branch")
         print ("This is new branch commit")
+        print("1 commit")
     }
 
 
